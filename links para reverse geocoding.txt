@@ -1,0 +1,2 @@
+https://towardsdatascience.com/geocoding-and-reverse-geocoding-using-python-36a6ad275535
+https://opencagedata.com/dashboard#api-keys
